@@ -1,2 +1,1 @@
-# fcc_backend_02_request_header_parser
-fcc
+# Backend Challenges boilerplate - package.json
